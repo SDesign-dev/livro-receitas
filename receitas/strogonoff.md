@@ -1,6 +1,6 @@
 # Strogfonoff de frango
 
-##Ingredientes
+## Ingredientes
 * 1/2 kg peito de frango cortado em cubinhos
 * 1 caixinha de creme de leite
 * sal e pimenta a gosto
